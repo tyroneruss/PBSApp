@@ -1,0 +1,132 @@
+100,Form 101,7|13,I,Individual Debtors,New,Voluntary Petition for Individuals Filing for Bankruptcy
+101,Form 101A,7|13,I,Bankruptcy Forms,New,Initial Statement About an Eviction Judgment Against You (individuals)
+102,Form 101B,7|13,I,Bankruptcy Forms,New,Statement About Payment of an Eviction Judgment Against You (individuals)
+103,Form 103A,7|13,BI,Individual Debtors,New,Application for Individuals to Pay the Filing Fee in Installments
+104,Form 103B,7,I,Individual Debtors,New,Application to Have the Chapter 7 Filing Fee Waived
+105,Form 104,11,I,Individual Debtors,Open,For Individual Chapter 11 Cases: The List of Creditors Who Have the 20 Largest Unsecured Claims Against You Who Are Not Insiders
+106,Form 106A/B,7|13,I,Individual Debtors,Open,Schedule A/B: Property (individuals)
+107,Form 106C,7|13,I,Individual Debtors,Open,Schedule C: The Property You Claim as Exempt (individuals)
+108,Form 106D,7|13,I,Individual Debtors,Open,Schedule D: Creditors Who Hold Claims Secured By Property (individuals)
+109,Form 106E/F,7|13,I,Individual Debtors,Open,Schedule E/F: Creditors Who Have Unsecured Claims (individuals)
+110,Form 106G,7|13,I,Individual Debtors,Open,Schedule G: Executory Contracts and Unexpired Leases (individuals)
+111,Form 106H,7|13,I,Individual Debtors,Open,Schedule H: Your Codebtors (individuals)
+112,Form 106I,7|13,I,Individual Debtors,Open,Schedule I: Your Income (individuals)
+113,Form 106J,7|13,I,Individual Debtors,Open,Schedule J: Your Expenses (individuals)
+114,Form 106J-2,7|13,I,Individual Debtors,Open,Schedule J-2: Expenses for Separate Household of Debtor 2 (individuals)
+115,Form 105,7|13,I,Individual Debtors,Processing,Involuntary Petition Against an Individual
+116,Form 106 Declaration,7|13,I,Individual Debtors,Processing,Declaration About an Individual Debtor�s Schedules
+117,Form 106 Summary,7|13,I,Individual Debtors,Processing,A Summary of Your Assets and Liabilities and Certain Statistical Information (individuals)
+118,Form 107,7|13,I,Individual Debtors,Processing,Your Statement of Financial Affairs for Individuals Filing for Bankruptcy (individuals)
+119,Form 108,7,I,Individual Debtors,Processing,Statement of Intention for Individuals Filing Under Chapter 7
+120,Form 119,7|11|12|13,BI,Bankruptcy Forms,Processing,"Bankruptcy Petition Preparer�s Notice, Declaration and Signature"
+121,Form 121,7|11|12|13,BI,Bankruptcy Forms,Processing,Your Statement About Your Social Security Numbers
+122,Form 122A-1,7,I,Means Test Forms,Processing,Chapter 7 Statement of Your Current Monthly Income
+123,Form 122A-1Supp,7,I,Means Test Forms,Processing,Statement of Exemption from Presumption of Abuse Under 707(b)(2)
+124,Form 122A-2,7,I,Means Test Forms,Processing,Chapter 7 Means Test Calculation
+125,Form 122C-1,13,BI,Means Test Forms,Processing,Chapter 13 Statement of Your Current Monthly Income and Calculation of Commitment Period
+126,Form 122C-2,13,BI,Means Test Forms,Processing,Chapter 13 Calculation of Your Disposable Income
+127,Form 309A,7,I,Meeting of Creditors Notices,New,Notice of Chapter 7 Bankruptcy Case, No Proof of Claim Deadline (For Individuals or Joint Debtors)
+128,Form 309B,7,I,Meeting of Creditors Notices,New,Notice of Chapter 7 Bankruptcy Case, Proof of Claim Deadline Set (For Individuals or Joint Debtors)
+129,Form 26,11|12|13,BI,Bankruptcy Forms,New,"Periodic Report Regarding Value, Operations and Profitability of Entities in Which the Debtor's Estate Holds a Substantial or Controlling Interest"
+200,Form 25A,11,B,Small Business Forms,New,Plan of Reorganization in Small Business Case under Chapter 11
+201,Form 25B,11,B,Small Business Forms,New,Disclosure Statement in Small Business Case under Chapter 11
+202,Form 25C,11|13,B,Small Business Forms,New,Small Business Monthly Operating Report
+203,Form 201,7|11|12|13,B,Non-Individual Debtors,New,Voluntary Petition for Non-Individuals Filing for Bankruptcy
+204,Form 204,7|11|12|13,B,Non-Individual Debtors,New,For Chapter 11 Cases: The List of Creditors Who Have the 20 Largest Unsecured Claims Against You Who Are Not Insiders (non-individuals)
+205,Form 205,7|11|12|13,B,Non-Individual Debtors,New,Involuntary Petition Against a Non-Individual
+206,Form 206 Summary,7|11|12|13,B,Non-Individual Debtors,New,A Summary of Your Assets and Liabilities (non-individuals)
+207,Form 206A/B,7|11|12|13,B,Non-Individual Debtors,New,Schedule A/B: Property (non-individuals)
+208,Form 206D,7|11|12|13,B,Non-Individual Debtors,New,Schedule D: Creditors Who Hold Claims Secured By Property (non-individuals)
+209,Form 206E/F,7|11|12|13,B,Non-Individual Debtors,New,Schedule E/F: Creditors Who Have Unsecured Claims (non-individuals)
+210,Form 206G,7|11|12|13,B,Non-Individual Debtors,New,Schedule G: Executory Contracts and Unexpired Leases (non-individuals)
+211,Form 206H,7|11|12|13,B,Non-Individual Debtors,New,Schedule H: Your Codebtors (non-individuals)
+212,Form 207,7|11|12|13,B,Non-Individual Debtors,New,Statement of Your Financial Affairs (non-individuals)
+213,Form 122B,11,B,Means Test Forms,New,Chapter 11 Statement of Your Current Monthly Income
+216,Form 201A,11,BI,Bankruptcy Forms,New,Attachment to Voluntary Petition for Non-Individuals Filing for Bankruptcy Under Chapter 11
+217,Form 202,7|11|12|13,BI,Bankruptcy Forms,New,Declaration Under Penalty of Perjury for Non-Individual Debtors
+301,Form 309C,7,B,Meeting of Creditors Notices,New,Notice of Chapter 7 Bankruptcy Case,No Proof of Claim Deadline Set (For Corporations or Partnerships)
+302,Form 309D,7,B,Meeting of Creditors Notices,New,Notice of Chapter 7 Bankruptcy Case, Proof of Claim Deadline Set (For Corporations or Partnerships)
+303,Form 309E,11,B,Meeting of Creditors Notices,New,Notice of Chapter 11 Bankruptcy Case, (For Individuals or Joint Debtors)
+304,Form 309F,11,B,Meeting of Creditors Notices,New,Notice of Chapter 11 Bankruptcy Case, (For Corporations or Partnerships)
+305,Form 309G,12,B,Meeting of Creditors Notices,New,Notice of Chapter 12 Bankruptcy Case, (For Individuals or Joint Debtors)
+306,Form 309H,12,B,Meeting of Creditors Notices,New,Notice of Chapter 12 Bankruptcy Case, (For Corporations or Partnerships)
+307,Form 309I,13,B,Meeting of Creditors Notices,New,Notice of Chapter 13 Bankruptcy Case,
+308,Form 312,All,BI,Bankruptcy Forms,New,Order and Notice for Hearing on Disclosure Statement
+309,Form 313,All,BI,Bankruptcy Forms,New,"Order Approving Disclosure Statement and Fixing Time for Filing Acceptances or Rejections of Plan, Combined with Notice Thereof"
+310,Form 3130S,All,BI,Bankruptcy Forms,New,Order Conditionally Approving Disclosure Statement
+311,Form 314,11|13,BI,Bankruptcy Forms,New,Ballot for Accepting or Rejecting Plan
+312,Form 315,11|13,BI,Bankruptcy Forms,New,Order Confirming Plan
+313,Form 3150S,11|13,BI,Bankruptcy Forms,New,Order Approving Disclosure Statement and Confirming Plan
+150,Form 318,7,BI,Bankruptcy Forms,New,Discharge of Debtor in a Chapter 7 Case
+315,Form 3180F,12,BI,Bankruptcy Forms,New,Chapter 12 Discharge
+316,Form 3180FH,12,BI,Bankruptcy Forms,New,Chapter 12 Hardship Discharge
+317,Form 3180RI,11,BI,Bankruptcy Forms,New,Individual Chapter 11 Discharge
+318,Form 3180W,13,BI,Bankruptcy Forms,New,Chapter 13 Discharge
+319,Form 3180WH,13,BI,Bankruptcy Forms,New,Chapter 13 Hardship Discharge
+400,Form 401,7|11|12|13,BI,Bankruptcy Forms,New,Petition for Recognition of Foreign Proceeding
+400,Form 4011A,7|11|12|13,BI,Bankruptcy Forms,New,General Power of Attorney
+400,Form 4011B,7|11|12|13,BI,Bankruptcy Forms,New,Special Power of Attorney
+400,Form 410,7|11|12|13,BI,Bankruptcy Forms,New,Proof Of Claim
+400,Form 4100N,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Final Cure Payment
+400,Form 4100R,7|11|12|13,BI,Bankruptcy Forms,New,Response to Notice of Final Cure Payment
+400,Form 410A,7|11|12|13,BI,Bankruptcy Forms,New,"Proof Of Claim, Attachment A"
+400,Form 410S-1,7|11|12|13,BI,Bankruptcy Forms,New,"Proof Of Claim, Supplement 1"
+400,Form 410S-2,7|11|12|13,BI,Bankruptcy Forms,New,"Proof Of Claim, Supplement 2"
+400,Form 416A,7|11|12|13,BI,Bankruptcy Forms,New,Caption
+400,Form 416B,7|11|12|13,BI,Bankruptcy Forms,New,Caption (Short Title)
+400,Form 416D,7|11|12|13,BI,Bankruptcy Forms,New,Caption for Use in Adversary Proceeding other than for a Complaint Filed by a Debtor
+400,Form 417A,7|11|12|13,BI,Appellate Forms,New,Notice Of Appeal And Statement Of Election
+400,Form 417B,7|11|12|13,BI,Appellate Forms,New,Optional Appellee Statement Of Election To Proceed In District Court
+400,Form 417C,7|11|12|13,BI,Appellate Forms,New,Certificate of Compliance With Rule 8015(a)(7)(B) or 8016(d)(2)
+400,Form 420A,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Motion or Objection
+400,Form 420B,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Objection to Claim
+400,Form 423,7|11|12|13,BI,Bankruptcy Forms,New,Certification About a Financial Management Course
+400,Form 424,7|11|12|13,BI,Appellate Forms,New,Certification to Court of Appeals
+400,Form 427,7|11|12|13,BI,Bankruptcy Forms,New,Cover Sheet for Reaffirmation Agreement
+1000,Form 1310,7|11|12|13,BI,Bankruptcy Forms,New,Exemplification Certificate
+1000,Form 1320,7|11|12|13,BI,Bankruptcy Forms,New,Application For Search of Bankruptcy Records
+1000,Form 1330,7|11|12|13,BI,Bankruptcy Forms,New,Claims Register
+1000,Form 1040,7|11|12|13,BI,Bankruptcy Forms,New,Adversary Proceeding Cover Sheet
+2000,Form 2000,7|11|12|13,BI,Bankruptcy Forms,New,"Required Lists, Schedules, Statements, and Fees"
+2000,Form 2010,11,BI,Bankruptcy Forms,New,Notice Required by 11 U.S.C. � 342(b) for Individuals Filing for Bankruptcy
+2000,Form 2020,7|11|12|13,BI,Bankruptcy Forms,New,Statement of Military Service
+2000,Form 2030,7|11|12|13,BI,Bankruptcy Forms,New,Disclosure of Compensation of Attorney For Debtor
+2000,Form 2040,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Need to File Proof of Claim Due to Recovery of Assets
+2000,Form 2050,7|11|12|13,BI,Bankruptcy Forms,New,Notice to Creditors and Other Parties in Interest
+2000,Form 2060,7|11|12|13,BI,Bankruptcy Forms,New,Certificate of Commencement of Case
+2000,Form 2070,7|11|12|13,BI,Bankruptcy Forms,New,Certificate of Retention of Debtor in Possesion
+2000,Form 2100A,7|11|12|13,BI,Bankruptcy Forms,New,Transfer of Claim Other Than For Security
+2000,Form 2100B,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Transfer of Claim Other Than for Security
+2000,Form 2300A,12,BI,Bankruptcy Forms,New,Order Confirming Chapter 12 Plan
+2000,Form 2300B,13,BI,Bankruptcy Forms,New,Order Confirming Chapter 13 Plan
+2000,Form 2310A,12,BI,Bankruptcy Forms,New,Order Fixing Time to Object to Proposed Modfication of Confirmed Chapter 12 Plan
+2000,Form 2310B,13,BI,Bankruptcy Forms,New,Order Fixing Time to Object to Proposed Modification of Confirmed Chapter 13 Plan
+2000,Form 2400A,7|11|12|13,BI,Bankruptcy Forms,New,Reaffirmation Documents
+2000,Form 2400A/Form ALT,7|11|12|13,BI,Bankruptcy Forms,New,Reaffirmation Agreement
+2000,Form 2400B,7|11|12|13,BI,Bankruptcy Forms,New,Motion For Approval of Reaffirmation Agreement
+2000,Form 2400C,7|11|12|13,BI,Bankruptcy Forms,New,Order on Reaffirmation Agreement
+2000,Form 2400C ALT,7|11|12|13,BI,Bankruptcy Forms,New,Order on Reaffirmation Agreement (Alt.)
+2000,Form 2500A,7|11|12|13,BI,Bankruptcy Forms,New,Summons in an Adversary Proceeding
+2000,Form 2500B,7|11|12|13,BI,Bankruptcy Forms,New,Summons and Notice of Pretrial Conference in an Adversary Proceeding
+2000,Form 2500C,7|11|12|13,BI,Bankruptcy Forms,New,Summons and Notice of Trial in an Adversary Proceeding
+2000,Form 2500D,7|11|12|13,BI,Bankruptcy Forms,New,Third-Party Summons
+2000,Form 2500E,7|11|12|13,BI,Bankruptcy Forms,New,Summons to Debtor in Involuntary Case
+2000,Form 2500F,7|11|12|13,BI,Bankruptcy Forms,New,Summons in a Chapter 15 Case Seeking Recognition of a Foreign Nonmain Proceeding
+2000,Form 2530,7|11|12|13,BI,Bankruptcy Forms,New,Order For Relief in an Involuntary Case
+2000,Form 2540,7|11|12|13,BI,Bankruptcy Forms,New,Subpoena For Rule 2004 Examination
+2000,Form 2550,7|11|12|13,BI,Bankruptcy Forms,New,Subpoena to Appear and Testify at a Hearing or Trial in a Bankruptcy Case (or Adversary Proceeding)
+2000,Form 2560,7|11|12|13,BI,Bankruptcy Forms,New,Subpoena to Testify at a Deposition in a Bankruptcy Case (or Adversary Proceeding)
+2000,Form 2570,7|11|12|13,BI,Bankruptcy Forms,New,"Subpoena to Produce Documents, Information, or Objects or to Permit Inspection of Premises ina Bankruptcy Case (or Adversary Proceeding)"
+2000,Form 2600,7|11|12|13,BI,Bankruptcy Forms,New,Entry of Default
+2000,Form 2610A,7|11|12|13,BI,Bankruptcy Forms,New,Judgement by Default - Clerk
+2000,Form 2610B,7|11|12|13,BI,Bankruptcy Forms,New,Judgement by Default - Judge
+2000,Form 2610C,7|11|12|13,BI,Bankruptcy Forms,New,Judgement in an Adversary Proceeding
+2000,Form 2620,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Entry of Judgement
+2000,Form 2630,7|11|12|13,BI,Bankruptcy Forms,New,Bill of Costs
+2000,Form 2640,7|11|12|13,BI,Bankruptcy Forms,New,Writ of Execution to the United State Marshal
+2000,Form 2650,7|11|12|13,BI,Bankruptcy Forms,New,Certification of Judgement for Registration in Another District
+2000,Form 2700,7|11|12|13,BI,Bankruptcy Forms,New,Notice of Filing of Final Report of Trustee
+2000,Form 2710,7|11|12|13,BI,Bankruptcy Forms,New,Final Decree
+2000,Form 2800,7|11|12|13,BI,Bankruptcy Forms,New,Disclosure of Compensation of Bankruptcy Petition Preparer
+2000,Form 2810,7|11|12|13,BI,Bankruptcy Forms,New,Appearance of Child Support Creditor or Representative
+2000,Form 2830,7|11|12|13,BI,Bankruptcy Forms,New,Chapter 13 Debtor's Certifications Regarding Domestic Support Obligations and Section 522(q)
